@@ -1,1 +1,0 @@
-web: gunicorn unq_coder.wsgi --log-file -
